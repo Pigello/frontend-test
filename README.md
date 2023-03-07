@@ -14,6 +14,7 @@ It is fine to use another API that can be used to represent our solar system.
 - The user should be given enough data in the list to get a basic understanding of what planets and orbiting bodies are related to one another
 - The user should be able to add their own body to the solar system (bonus for keeping the new body when reloading the page using frontend caching solutions)
 - The list should be sortable and filterable through query params
+- The app should feature type safety (Typescript)
 
 ## Practical description
 
